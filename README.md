@@ -1,5 +1,6 @@
 # YuzumuGizle
 Bu yazılım C++/OPENCV kütüphanesi ile tarafımca kodlanmıştır.Çalışma anına ait bir resimde("EKRAN ALINTISI.PNG")  konulmuştur.
+Çalışma videosu: https://youtu.be/8p9vaFfgmYU
 # YAZILIM NE YAPIYOR? 
 
 Bu yazılım önceki projelerimde de kullandığım kendi cascade dosyam ile gerçekleşmiştir.
